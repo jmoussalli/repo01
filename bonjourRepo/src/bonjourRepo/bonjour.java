@@ -15,6 +15,7 @@ public class bonjour {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Bonjour repository again!");
+		System.out.println("We want a shrubbery.");
 	}
 
 }
